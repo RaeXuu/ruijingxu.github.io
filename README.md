@@ -1,2 +1,3 @@
-# raexuu.github.io
-hello
+# Ruijing Xu
+
+Hi, this is Ruijing Xu
